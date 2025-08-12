@@ -40,10 +40,10 @@ This will create an executable named `images_to_pdf` (or `images_to_pdf.exe` on 
 
 ```bash
 Usage:
-  images-to-pdf [flags]
+  images_to_pdf [flags]
 
 Flags:
-  -h, --help            help for images-to-pdf
+  -h, --help            help for images_to_pdf
   -i, --input string    Input directory containing images (required)
   -n, --name string     Name of the output PDF file (default: images.pdf)
   -o, --output string   Output directory for the PDF file (default: current directory)
